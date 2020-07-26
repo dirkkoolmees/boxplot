@@ -1,1 +1,1 @@
-web: gunicorn boxplot:server
+web: gunicorn app:server
